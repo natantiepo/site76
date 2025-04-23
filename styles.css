@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-contraste-fundo: #bdcaff
+    --alto-contraste-texto: #000000
+    --alto-contrste-link: #ae00ff
 }
 
 body {
